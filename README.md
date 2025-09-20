@@ -37,5 +37,6 @@ I believe in learning by doing, and every project I share here is another step i
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wilfredog266)  
 
 ---
+Take a look at my Resume **[Here](https://docs.google.com/document/d/1gsRTmAEh7dGIvnBIdxs3ddnxrryhpQbXvmt1VI2fALM/edit?usp=sharing)**
 
 ✨ *Always cooking something up — sometimes it’s data, sometimes it’s dinner.*  
