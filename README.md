@@ -6,7 +6,7 @@
 
 I started my career as a chef, where I learned the discipline of precision, creativity, and working under pressure. After years in hospitality, I realized I wanted to apply that same mindset to solving problems with data.  
 
-Now I’m finishing the last sprint of the **TripleTen Business Intelligence Bootcamp**, where I’ve built projects in SQL, Tableau, Power BI, and Excel — turning raw numbers into dashboards and insights that help answer real business questions.  
+I successfully have completed a **TripleTen Business Intelligence Bootcamp**, where I’ve built projects in SQL, Tableau, Power BI, and Excel, turning raw numbers into dashboards and insights that help answer real business questions.  
 
 I believe in learning by doing, and every project I share here is another step in my transition from kitchens to code, from recipes to reports.  
 
@@ -37,6 +37,6 @@ I believe in learning by doing, and every project I share here is another step i
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wilfredog266)  
 
 ---
-Take a look at my Resume **[Here](https://docs.google.com/document/d/1myPqJXryLAimCefpTf7KS7eBS2QtdS__eHU-d22rBZE/edit?usp=drive_link)**
+Take a look at my Resume **[Here](https://1drv.ms/w/c/cbf5d0e4761b6b1a/IQCxo6zGnxkrT5UTK2Osw8qPAXX4td9qWdSl8rMAh1Wa5Ik?e=5pHV0O)**
 
-✨ *Always cooking something up — sometimes it’s data, sometimes it’s dinner.*  
+✨ *Always cooking something up, sometimes it’s data, sometimes it’s dinner.*  
