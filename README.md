@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Wilfredo  
 
-**From Chef to Data Analyst** 🍳➡️📊 — I used to create dishes, now I craft dashboards. Blending creativity, discipline, and curiosity to turn raw data into insights.  
+**From Chef to Data Analyst** 🍳➡️📊 I used to create dishes, now I craft dashboards. Blending creativity, discipline, and curiosity to turn raw data into insights.  
 
 ## ⚡ About Me  
 
@@ -20,7 +20,7 @@ I believe in learning by doing, and every project I share here is another step i
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 - 💡 What I love: spotting patterns, simplifying chaos, and building tools that actually help people  
-- ✨ Fun fact: I treat data like recipes — measure, test, taste, repeat  
+- ✨ Fun fact: I treat data like recipes, measure, test, taste, repeat  
 
 ---
 
